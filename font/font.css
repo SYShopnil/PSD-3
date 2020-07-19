@@ -1,0 +1,52 @@
+/******Robotto********/
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');/*for menu *** font-family: 'Roboto', sans-serif; *** */
+
+/*********RUFINA*****/
+@import url('https://fonts.googleapis.com/css2?family=Rufina&display=swap');/*used in header title*/
+/*font-family: 'Rufina', serif;*/
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap'); /*font-family: 'Roboto', sans-serif;*/
+
+/*******Custome Font ***********/
+
+/*Rufina Bold*/
+@font-face{
+	font-family:"rufina-bold";
+	
+	src:url("rufina/Rufina-Bold.ttf") format("truetype"),
+	
+	url("rufina/Rufina-Bold.eot") format("eot"),
+	
+	url("rufina/Rufina-Bold.svg #rufina-bold") format("svg"),
+	
+	url("rufina/Rufina-Bold.woff") format("woff");
+	
+}
+/*Roboto Light*/
+@font-face{
+	font-family:"roboto-light";
+	src:url("Roboto_light/roboto.light.ttf") format("truetype"),
+	
+	url("Roboto_light/roboto.light.eot") format("eot"),
+	
+	url("Roboto_light/Roboto-Light.svg #roboto-light") format("svg"),
+	
+	url("Roboto_light/Roboto-Light.woff") format("woff");
+	
+}
+
+/*Roboto Medium*/
+@font-face{
+	font-family:"roboto-medium";
+	
+	src:url("Roboto_Medium/roboto.medium.ttf") format("truetype"),
+	
+	url("Roboto_Medium/roboto.medium.eot") format("eot"),
+	
+	url("Roboto_Medium/Roboto-Medium.svg #roboto-medium") format("svg"),
+	
+	url("Roboto_Medium/Roboto-Medium.woff") format("woff");
+	
+}
+
+
