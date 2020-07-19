@@ -13,6 +13,7 @@ px      68    160    252    344    436    528    620    712    804    896    */
 /*Section 3*/
 .sec3_down .box_sec3{
 	max-height: 100%;
+	padding-bottom: 5%;
 }
 /*Section 3*/
 .box_sec3 .content{
